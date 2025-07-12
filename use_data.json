@@ -1,0 +1,28 @@
+{
+    "selected_hospital": "City Hospital",
+    "selected_department": "Cardiology",
+    "selected_doctor": {
+        "name": "Dr. A. Sharma",
+        "rating": 4.8,
+        "qualification": "MD, DM (Cardiology)",
+        "experience": "15 years"
+    },
+    "health": {
+        "weight": 70.0,
+        "height": 170.0,
+        "symptoms": "cold and fever",
+        "pre_meds": "paracitamol",
+        "bp": "120/80",
+        "record_date": "2025-07-12"
+    },
+    "appointment": {
+        "selected_hospital": "City Hospital",
+        "selected_department": "Cardiology",
+        "selected_doctor": {
+            "name": "Dr. A. Sharma",
+            "rating": 4.8,
+            "qualification": "MD, DM (Cardiology)",
+            "experience": "15 years"
+        }
+    }
+}
